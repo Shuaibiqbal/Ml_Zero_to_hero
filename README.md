@@ -119,5 +119,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - 👯 Open to opensource contributions
 - 💬 Ask me about anything in ML
-- ✉️ Reach me at mhuzaifadev@gmail.com for contact
-- 💼 LinkedIn: https://linkedin.com/in/mhuzaifadev
+- ✉️ Reach me at shuaibiqbaldgk@gmail.com for contact
+- 💼 LinkedIn: https://linkedin.com/in/shuaibiqbal
