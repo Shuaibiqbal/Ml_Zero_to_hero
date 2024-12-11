@@ -1,7 +1,7 @@
 # Ml_Zero_to_hero
 # machine-learning_zero-to-hero
 
-<img src="https://raw.githubusercontent.com/mhuzaifadev/mlzero_to_hero/main/mlzero_to_hero-01.png">
+<img src="https://github.com/Shuaibiqbal/Ml_Zero_to_hero.git">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -75,7 +75,7 @@ Another important prerequisite is to learn Probability and Statistics. If you ar
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/mhuzaifadev/mlzero_to_hero/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Shuaibiqbal/Ml_Zero_to_hero/issues) for a list of proposed features (and known issues).
 The roadmap of this project is comprising over <b>FIVE</b> sections.
 
 * <b>Data Preprocessing & Visualisation</b><br>
