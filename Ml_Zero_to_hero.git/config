@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/Shuaibiqbal/Ml_Zero_to_hero.git
+	fetch = +refs/*:refs/*
+	mirror = true
